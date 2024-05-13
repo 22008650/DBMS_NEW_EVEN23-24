@@ -1,6 +1,7 @@
 # EXP NO 2: DATA DEFINITION LANGUAGE COMMANDS AND ITS CONSTRAINTS
 ### DATE : 
-### REGISTER NUMBER: 
+### NAME: MALARVIZHI G
+### REGISTER NUMBER: 212222040096
 ## AIM:
  To study and write DDL commands and different types of constraints.
 ## THEORY
