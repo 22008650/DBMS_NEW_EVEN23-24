@@ -1,6 +1,7 @@
 # EX.NO.10: Simulating Classification using WEKA Data mining and Analysis Tool
 ## Date: 
-## REGISTER NUMBER
+### NAME: MALARVIZHI G
+### REGISTER NUMBER: 212222040096
 ## AIM:
 To perform a classification technique using WEKA tool
 ## WEKA:
