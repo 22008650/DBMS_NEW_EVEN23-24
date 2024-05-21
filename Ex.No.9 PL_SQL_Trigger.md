@@ -1,5 +1,5 @@
 # Ex. No: 9  Triggers in PL/SQL
-### DATE: 
+### DATE: 24.04.2024
 ### NAME: MALARVIZHI G
 ### REGISTER NUMBER: 212222040096
 ### AIM: 
