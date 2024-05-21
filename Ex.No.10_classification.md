@@ -1,5 +1,5 @@
 # EX.NO.10: Simulating Classification using WEKA Data mining and Analysis Tool
-## Date: 
+## Date: 08.05.2024
 ### NAME: MALARVIZHI G
 ### REGISTER NUMBER: 212222040096
 ## AIM:
